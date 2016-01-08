@@ -24,5 +24,6 @@ Section    | Topic
 14        | Consuming APIs
 15        | Building APIs
 
+And there you go! Now you have a solid high level outline of your course. This will go through several iterations. You might in your process, learn that a unit needs to be broken down even further or that there were missing units and lessons you hadn’t considered. That’s totally fine and expected!
 
 <a href='https://learn.co/lessons/creating-your-units' data-visibility='hidden'>View this lesson on Learn.co</a>
